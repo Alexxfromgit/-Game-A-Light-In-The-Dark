@@ -7,7 +7,7 @@
   Beta build
   </p>
 
-# ОБ ЭТОЙ ИГРЕ
+# ABOUT THIS GAME
 
 *──We cannot choose in this unfair world.*
 
